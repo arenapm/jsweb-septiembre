@@ -50,6 +50,7 @@ public class Persona {
 	}
 	
 	//destructor
+	@SuppressWarnings("deprecation")
 	protected void finalize() throws Throwable {
 		super.finalize();
 		System.err.println("objeto muerto!");
