@@ -7,9 +7,7 @@
     <artifactId>app-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
-  <groupId>ar.com.educacionit</groupId>
   <artifactId>app-dao</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
   <name>app-dao</name>
   <url>http://maven.apache.org</url>
   <properties>
